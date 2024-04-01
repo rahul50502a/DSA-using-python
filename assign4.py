@@ -45,4 +45,3 @@ class DLL:
     def insert_after(self, temp, data):
         if temp is not None:
             n = Node()
-
